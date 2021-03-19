@@ -1,2 +1,2 @@
 # Data-analyst
-SQL and Python data analyst
+data analyst with Python and SQL 
